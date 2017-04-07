@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">행복지수</string>
+
+    <string name="menu_home">홈 화면</string>
+    <string name="menu_temperature">온도</string>
+    <string name="menu_air">공기</string>
+    <string name="menu_setting">설정</string>
+    <string name="menu_help">도움말/피드백</string>
+
+
+</resources>
