@@ -9,4 +9,7 @@
     <string name="menu_help">도움말/피드백</string>
 
 
+    <string name="GPS_info_Receiving">위치정보 수신중...</string>
+
+
 </resources>
